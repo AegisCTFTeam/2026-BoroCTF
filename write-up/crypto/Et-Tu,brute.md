@@ -1,0 +1,3 @@
+- solved by @lawence3713
+- rot brute force를 통해 플래그를 획득할 수 있다.
+- Flag: boroCTF{@fr13ndn0mor3}
